@@ -1,0 +1,12 @@
+{
+  "name": "Api responses",
+  "replies": {
+    "greetings": ["hello", "hey", "good morning", "good evening", "hi"],
+    "greetings_responses": [
+      "Hello",
+      "Hey",
+      "Good morning to you to, how you doing?",
+      "Good evening to you to, how you doing?"
+    ]
+  }
+}
